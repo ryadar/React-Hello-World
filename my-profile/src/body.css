@@ -1,0 +1,9 @@
+.Body-Text-Center {
+    text-align: center;
+    position:fixed;
+    margin-left: 45% ;
+
+    padding-left: 20;
+    border: 1px solid #ccc;
+    background-color: #f3f3f3;
+}
